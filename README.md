@@ -154,8 +154,7 @@ public class Conn{
 You can add images in your project directory under `screenshots/` and refer to them in the README:
 
 Example:
-```md
-![Login Screen](screenshots/login.png)
+![Login Screen](./screenshots/login.png)
 ![Signup Screen](screenshots/signup.png)
 ![Signup2 Screen](screenshots/Signup2.png)
 ![Signup3 Screen](screenshots/Signup3.png)
@@ -164,9 +163,8 @@ Example:
 ![Withdraw Screen](screenshots/Withdraw.png)
 ![FastCash Screen](screenshots/FastCash.png)
 ![PinChange Screen](screenshots/PinChange.png)
-![Balance Screen](screenshots/Balance.png)
+![Balance Screen](./screenshots/Balance.png)
 ![MiniStatement Screen](screenshots/MiniStatement.png)
-```
 
 ---
 
